@@ -1,0 +1,2 @@
+# fongbe-lexicon
+Fongbe lexicon
